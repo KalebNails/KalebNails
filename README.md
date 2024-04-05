@@ -1,19 +1,4 @@
 ### Hi, My name is Kaleb Nails👋
-
-<!--
-**KalebNails/KalebNails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ---
 
 <h4>Main Languages</h4>
@@ -75,7 +60,7 @@ h4>Favoriate IDE's or OS's</h4>
           </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
         <img 
-          src="https://img.shields.io/badge/kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" 
+          src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" 
           alt="AURDUINO IDE"
         />
     </a>
