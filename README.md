@@ -23,6 +23,17 @@
       alt="Markdown"
     />
   </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"
+      alt="PowerShell"
+    />
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"
+      alt="GNU Bash"
+    />
 </p>
 
 <h4>Favorite IDE's or OS's or Platforms</h4>
