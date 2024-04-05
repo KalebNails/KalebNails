@@ -25,7 +25,7 @@
   </a>
 </p>
 
-h4>Favoriate IDE's or OS's</h4>
+<h4>Favorite IDE's or OS's or Platforms</h4>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img
@@ -46,16 +46,16 @@ h4>Favoriate IDE's or OS's</h4>
       alt="WSL"
     />
   </a>
-  <a href="https://getfedora.org/" target="_blank">
+  <a href="https://www.raspberrypi.com/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"
-      alt="Fedora"
+      src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"
+      alt="Raspberry PI"
     />
   </a>
   <a href="https://kubuntu.org/" target="_blank"> 
         <img 
-          src="https://img.shields.io/badge/kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white" 
-          alt="Kubuntu"
+          src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" 
+          alt="atom"
         />
           </a>
   <a href="https://www.arduino.cc/" target="_blank"> 
@@ -67,5 +67,6 @@ h4>Favoriate IDE's or OS's</h4>
     </a>
 </p>
 
+<h4>Favorite Office Software</h4>
 
 
