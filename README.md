@@ -107,7 +107,7 @@
   <p align="center">
   <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username={KalebNails}&theme=blue-green"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebNails&theme=blue-green"
       alt="Stats"
     />
   </a>
