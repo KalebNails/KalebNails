@@ -44,6 +44,23 @@
       alt="VSCode"
     />
   </a>
+
+  <p align="center">
+  <a href="https://www.linux.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="Linux"
+    />
+  </a>
+
+  
+    <p align="center">
+  <a href="https://www.linux.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+      alt="Ubuntu"
+    />
+  </a>
   
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
     <img
@@ -84,5 +101,13 @@
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
+    />
+  </a>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username={KalebNails}&theme=blue-green"
+      alt="Stats"
     />
   </a>
