@@ -1,4 +1,4 @@
-### Hi, My name is Kaleb Nails👋
+### Hi, My name is Kaleb Nails
 ---
 
 <h4>Main Languages</h4>
@@ -78,6 +78,11 @@
     </a>
 </p>
 
-<h4>Favorite Office Software</h4>
-
-
+<h4>Socials</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
