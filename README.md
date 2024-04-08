@@ -54,6 +54,7 @@
   </a>
 
   
+  <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
@@ -110,5 +111,5 @@
       alt="Stats"
     />
   </a>
-
-<h5>Note: this does not count mlx scripts towards matlab, which is a lot of my scripts.</h5>
+  <p align="center">
+  <h4> Note:
