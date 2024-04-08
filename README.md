@@ -111,6 +111,5 @@
       alt="Stats"
     />
   </a>
-  <p align="center">
 
-  Note: this does not count mlx scripts towards matlab, which is a lot of my scripts.
+                           Note: this does not count mlx scripts towards matlab, which is a lot of my scripts.
