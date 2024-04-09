@@ -100,7 +100,7 @@
     </a>
 </p>
 
-<h4>Socials</h4>
+<h4>Social</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
     <img
