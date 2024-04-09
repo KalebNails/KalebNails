@@ -54,7 +54,6 @@
   </a>
 
   
-  <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
@@ -112,4 +111,3 @@
     />
   </a>
   <p align="center">
-  <h4> Note:
