@@ -121,6 +121,7 @@
   Note: a large amount of my matlab code is either hidden, mlx's or simulink
   ---
   <h3>
+    <p align="center">
     <a href="https://github.com/KalebNails">
       <img
         src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
@@ -130,7 +131,7 @@
     Github Stats
     <a href="https://github.com/KalebNails">
       <img
-        src="https://raw.githubusercontent.com/KalebNails/Picgo-Github/main/img/stats.gif"
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
         width="25px"
       />
     </a>
