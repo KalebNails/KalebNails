@@ -45,7 +45,6 @@
     />
   </a>
 
-  <p align="center">
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
