@@ -110,17 +110,7 @@
   </a>
 
 ---
-  <p align="center">
-  <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebNails&theme=blue-green"
-      alt="Stats"
-    />
-  </a>
-  <p align="center">
-  Note: a large amount of my matlab code is either hidden, mlx's or simulink
-  ---
-  <h3>
+<h3>
     <p align="center">
     <a href="https://github.com/KalebNails">
       <img
@@ -136,24 +126,13 @@
       />
     </a>
   </h3>
-
-  <a href="https://github.com/KalebNails">
+  <p align="center">
+  <a href="https://www.linkedin.com/in/kaleb-nails-8a096b237" target="_blank">
     <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-KalebNails.vercel.app/api?username=KalebNails&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
-      alt="Github-README-Stats"
-      width="380px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebNails&theme=blue-green"
+      alt="Stats"
     />
   </a>
+  <p align="center">
+  Note: a large amount of my matlab code is either hidden, mlx's or simulink
 
-  <a href="https://github.com/KalebNails">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-streaks-stats-git-main-KalebNails.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
-      alt="Github-Streak-Stats"
-      width="380px"
-    />
-  </a>
-</div>
