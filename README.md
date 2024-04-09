@@ -115,5 +115,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalebNails&theme=blue-green"
       alt="Stats"
     />
+    Note: a large amount of my matlab code is either hidden, mlx's or simulink
   </a>
   <p align="center">
